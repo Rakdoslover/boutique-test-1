@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-e)jwmv^r!61^tbs(-df&5oo-_0y=(5j$jgt6%-z6d4hg0jl!35
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-rakdoslover-boutique-tes-qguqpdvgqg.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-rakdoslover-boutique-tes-qguqpdvgqg.us2.codeanyapp.com',
+                 '8001-rakdoslover-boutique-tes-qguqpdvgqg.us2.codeanyapp.com']
 
 
 # Application definition
