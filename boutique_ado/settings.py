@@ -32,7 +32,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-rakdoslover-boutique-tes-qguqpdvgqg.us2.codeanyapp.com',
-    'https://boutique-ado-test-oscar-8782f83342cb.herokuapp.com/'
+    '-ado-test-oscar-8782f83342cb.herokuapp.com/',
 ]
 
 
